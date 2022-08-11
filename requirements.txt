@@ -5,3 +5,6 @@ Required packages to install (using pip/pip3/anaconda...)
 - matplotlib
 - sklearn
 - scipy
+- seaborn
+- keras/tensorflow
+- python-speech-features
