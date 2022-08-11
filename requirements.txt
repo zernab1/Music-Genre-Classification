@@ -1,0 +1,7 @@
+Required packages to install (using pip/pip3/anaconda...)
+- librosa
+- pandas
+- numpy
+- matplotlib
+- sklearn
+- scipy
